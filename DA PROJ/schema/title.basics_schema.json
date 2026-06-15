@@ -1,0 +1,83 @@
+{
+  "file": "title.basics.tsv.gz",
+  "columns": [
+    {
+      "name": "tconst",
+      "dtype": "string",
+      "samples": [
+        "tt0000001",
+        "tt0000002",
+        "tt0000003"
+      ]
+    },
+    {
+      "name": "titleType",
+      "dtype": "string",
+      "samples": [
+        "short",
+        "short",
+        "short"
+      ]
+    },
+    {
+      "name": "primaryTitle",
+      "dtype": "string",
+      "samples": [
+        "Carmencita",
+        "Le clown et ses chiens",
+        "Poor Pierrot"
+      ]
+    },
+    {
+      "name": "originalTitle",
+      "dtype": "string",
+      "samples": [
+        "Carmencita",
+        "Le clown et ses chiens",
+        "Pauvre Pierrot"
+      ]
+    },
+    {
+      "name": "isAdult",
+      "dtype": "string",
+      "samples": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "name": "startYear",
+      "dtype": "string",
+      "samples": [
+        "1894",
+        "1892",
+        "1892"
+      ]
+    },
+    {
+      "name": "endYear",
+      "dtype": "string",
+      "samples": []
+    },
+    {
+      "name": "runtimeMinutes",
+      "dtype": "string",
+      "samples": [
+        "1",
+        "5",
+        "5"
+      ]
+    },
+    {
+      "name": "genres",
+      "dtype": "string",
+      "samples": [
+        "Documentary,Short",
+        "Animation,Short",
+        "Animation,Comedy,Romance"
+      ]
+    }
+  ],
+  "note": "sample-based schema; full dtypes inferred later"
+}

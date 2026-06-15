@@ -1,0 +1,33 @@
+{
+  "file": "title.ratings.tsv.gz",
+  "columns": [
+    {
+      "name": "tconst",
+      "dtype": "string",
+      "samples": [
+        "tt0000001",
+        "tt0000002",
+        "tt0000003"
+      ]
+    },
+    {
+      "name": "averageRating",
+      "dtype": "string",
+      "samples": [
+        "5.7",
+        "5.5",
+        "6.4"
+      ]
+    },
+    {
+      "name": "numVotes",
+      "dtype": "string",
+      "samples": [
+        "2184",
+        "305",
+        "2264"
+      ]
+    }
+  ],
+  "note": "sample-based schema; full dtypes inferred later"
+}

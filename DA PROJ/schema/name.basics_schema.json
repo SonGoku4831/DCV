@@ -1,0 +1,60 @@
+{
+  "file": "name.basics.tsv.gz",
+  "columns": [
+    {
+      "name": "nconst",
+      "dtype": "string",
+      "samples": [
+        "nm0000001",
+        "nm0000002",
+        "nm0000003"
+      ]
+    },
+    {
+      "name": "primaryName",
+      "dtype": "string",
+      "samples": [
+        "Fred Astaire",
+        "Lauren Bacall",
+        "Brigitte Bardot"
+      ]
+    },
+    {
+      "name": "birthYear",
+      "dtype": "string",
+      "samples": [
+        "1899",
+        "1924",
+        "1934"
+      ]
+    },
+    {
+      "name": "deathYear",
+      "dtype": "string",
+      "samples": [
+        "1987",
+        "2014",
+        "1982"
+      ]
+    },
+    {
+      "name": "primaryProfession",
+      "dtype": "string",
+      "samples": [
+        "actor,miscellaneous,producer",
+        "actress,miscellaneous,soundtrack",
+        "actress,music_department,producer"
+      ]
+    },
+    {
+      "name": "knownForTitles",
+      "dtype": "string",
+      "samples": [
+        "tt0072308,tt0050419,tt0027125,tt0025164",
+        "tt0037382,tt0075213,tt0038355,tt0117057",
+        "tt0057345,tt0049189,tt0056404,tt0054452"
+      ]
+    }
+  ],
+  "note": "sample-based schema; full dtypes inferred later"
+}

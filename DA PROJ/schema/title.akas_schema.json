@@ -1,0 +1,78 @@
+{
+  "file": "title.akas.tsv.gz",
+  "columns": [
+    {
+      "name": "titleId",
+      "dtype": "string",
+      "samples": [
+        "tt0000001",
+        "tt0000001",
+        "tt0000001"
+      ]
+    },
+    {
+      "name": "ordering",
+      "dtype": "string",
+      "samples": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "name": "title",
+      "dtype": "string",
+      "samples": [
+        "Carmencita",
+        "Carmencita",
+        "Carmencita"
+      ]
+    },
+    {
+      "name": "region",
+      "dtype": "string",
+      "samples": [
+        "DE",
+        "US",
+        "HU"
+      ]
+    },
+    {
+      "name": "language",
+      "dtype": "string",
+      "samples": [
+        "ja",
+        "ja",
+        "ja"
+      ]
+    },
+    {
+      "name": "types",
+      "dtype": "string",
+      "samples": [
+        "original",
+        "imdbDisplay",
+        "imdbDisplay"
+      ]
+    },
+    {
+      "name": "attributes",
+      "dtype": "string",
+      "samples": [
+        "literal title",
+        "literal title",
+        "literal English title"
+      ]
+    },
+    {
+      "name": "isOriginalTitle",
+      "dtype": "string",
+      "samples": [
+        "1",
+        "0",
+        "0"
+      ]
+    }
+  ],
+  "note": "sample-based schema; full dtypes inferred later"
+}

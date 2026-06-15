@@ -1,0 +1,12 @@
+# datasetlink : "https://drive.google.com/file/d/1j319sjL6ZHNt9aIyvzTPtNQMXbU4O1M_/view?usp=drive_link"
+
+
+# requirements.txt
+requests
+pandas
+tqdm
+python-dateutil
+dash
+plotly
+pyarrow
+

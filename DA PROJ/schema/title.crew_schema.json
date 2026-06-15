@@ -1,0 +1,33 @@
+{
+  "file": "title.crew.tsv.gz",
+  "columns": [
+    {
+      "name": "tconst",
+      "dtype": "string",
+      "samples": [
+        "tt0000001",
+        "tt0000002",
+        "tt0000003"
+      ]
+    },
+    {
+      "name": "directors",
+      "dtype": "string",
+      "samples": [
+        "nm0005690",
+        "nm0721526",
+        "nm0721526"
+      ]
+    },
+    {
+      "name": "writers",
+      "dtype": "string",
+      "samples": [
+        "nm0721526",
+        "nm0085156",
+        "nm0721526"
+      ]
+    }
+  ],
+  "note": "sample-based schema; full dtypes inferred later"
+}
